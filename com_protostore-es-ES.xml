@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="file" method="upgrade" version="3.0">
+    <name>Pro2Store - es-ES</name>
+    <version>1.0.0</version>
+    <creationDate>23/02/2020</creationDate>
+    <author>Pro2Store</author>
+    <authorEmail>info@pro2.store</authorEmail>
+    <authorUrl>https://www.pro2.store</authorUrl>
+    <copyright>Copyright (C) 2021 Pro2Store. All rights reserved.</copyright>
+    <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+<description>
+        <![CDATA[This is the Spanish language package maintained by the Pro2Store Community. To contribute, visit https://github.com/pro2store/spanish_translation and make a pull request.
+        ]]>
+    </description>
+    <fileset>
+        <files target="administrator/language/es-ES">
+            <filename>es-ES.com_protostore.ini</filename>
+            <filename>es-ES.com_protostore.sys.ini</filename>
+            </files>
+    </fileset>
+</extension>
